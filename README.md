@@ -1,5 +1,17 @@
 # miniproject1-601-fall2020
 
-It's very easy to make some words **bold** and other words *Italic* with Markdown. You can even [link to Google!](http://google,com)
+* Muhammad Zafar & Pierre junior Nouma Okala
 
-* [Git Tutorial](/git tutorial))
+- [ ]Repository
+- [ ]Clone
+- [ ]Fork
+- [ ]Branch
+- [ ]Commit
+- [ ]Merge
+- [ ]Checkout
+- [ ]Push
+- [ ]Pull 
+- [ ]Remote Add / Remove / Show
+- [ ]Status
+- [ ]Master Branch
+
