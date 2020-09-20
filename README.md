@@ -2,15 +2,14 @@
 
 * Muhammad Zafar & Pierre junior Nouma Okala
 
-- [ ]Repository
-- [ ]Clone
-- [ ]Fork
-- [ ]Branch
-- [ ]Commit
-- [ ]Merge
+* [Repository](/Reporsitory.md)
+* [Clone](/Clone.md)
+* [Branch](/Branch.md)
+* [Commit](/Commit.md)
+* [Merge](/Merge.md)
 - [ ]Checkout
 - [ ]Push
-- [ ]Pull 
+- [ ]Pull]
 - [ ]Remote Add / Remove / Show
 - [ ]Status
 - [ ]Master Branch
