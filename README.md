@@ -7,6 +7,4 @@
 * [Branch](/Branch.md)
 * [Commit](/Commit.md)
 * [Merge](/Merge.md)
-* [Status](/Status.md)
-* [Master Branch](/Master Branch.md)
 * [link to Google!](http://google.com)	
