@@ -5,16 +5,14 @@
 Muhammad Zafar & Pierre junior Nouma Okala
 
 
-
 ## Git, Docker, automated testing and CI
-How the usage of Git, Docker, automated testing and continuous integration can improve the productivity and competitiveness of a compan
-
+How the usage of Git, Docker, automated testing and continuous integration can improve the productivity and competitiveness of a company
 
 
 ## GitFlow
 * Repository
 * Clone
-* Branc
+* Branch
 * Commit
 * Merge
 * Checkout
