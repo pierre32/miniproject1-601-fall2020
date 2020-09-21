@@ -1,6 +1,13 @@
-# miniproject1-601-fall2020
+# MiniProject 1
+
+## Contributors
 
  Muhammad Zafar & Pierre junior Nouma Okala
+
+## Git, Docker, automated testing, and CI
+
+
+## GitFlow
 
 * [Repository](/Repository.md)
 * [Clone](/Clone.md)
