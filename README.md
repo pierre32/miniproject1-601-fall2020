@@ -7,11 +7,11 @@
 * [Branch](/Branch.md)
 * [Commit](/Commit.md)
 * [Merge](/Merge.md)
-- [ ]Checkout
-- [ ]Push
-- [ ]Pull]
-- [ ]Remote Add / Remove / Show
-- [ ]Status
-- [ ]Master Branch
+* [Checkout](/Checkout.md)
+* [Push](/push.md)
+* [Pull](/Pull.md)
+* [Remote Add/ Remove /Show](/Remote Add / Remove / Show.md)
+* [Status](/Status.md)
+* [Master Branch](/Master Branch.md)
 
 
