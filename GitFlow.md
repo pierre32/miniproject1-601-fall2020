@@ -33,7 +33,7 @@ This commands make a copy of an existing repo on to the local directory. cloning
 ### Fork
 Forking an official repo allows a developer to save the copy on their personal public repo and no other developers are allowed to push to it, but only the repo owner can pull changes from it
 Forking a repo on Github can be done on the upper right corner, simply click **Fork**.
-<img src="Images/Fork.png" height="500" width="auto">
+<img src="Images/Fork.png" height="auto" width="auto">
 
 ### Branch
 Branches are individual projects within a repository. Different branches within a repository can have completely different files and folders, or it could have everything the same except for some lines of code in a file.
