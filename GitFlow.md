@@ -20,12 +20,12 @@ Version control system is a system that records changes to a file or set of file
 Repository is a collection of files of various different versions of a project saved in a version control system, e.g., Github.
 
 Usage; Repo on github can be created by creating and account on [github](http://https://github.com/).
-![Create a repo](/images/repo.PNG)
+![Create a repo](/Images/repo.PNG)
   
 
 ### Clone
 This commands make a copy of an existing repo on to the local directory. cloning can be done using HTTP or SSH.
-    ![Create a repo](/images/Clone.PNG)
+    ![Create a repo](/Images/Clone.PNG)
     
     git clone <clonePath>
 
@@ -34,7 +34,7 @@ This commands make a copy of an existing repo on to the local directory. cloning
 ### Fork
 Forking an official repo allows a developer to save the copy on their personal public repo and no other developers are allowed to push to it, but only the repo owner can pull changes from it
 Forking a repo on Github can be done on the upper right corner, simply click **Fork**.
- ![Create a repo](/images/Clone.PNG)
+ ![Create a clone](/Images/Fork.PNG)
 
 ### Branch
 Branches are individual projects within a repository. Different branches within a repository can have completely different files and folders, or it could have everything the same except for some lines of code in a file.
@@ -61,16 +61,16 @@ Usage:
 
     git checkout master 
     git merge <branchname>
-###Checkout
+### Checkout
 
-###Push
+### Push
 
-###Pull
+### Pull
 
-###Remote add/ Remove/ Show
+### Remote add/ Remove/ Show
 
-###Status
+### Status
 
-###Master Branch      
+### Master Branch      
   
 Source:[BitBucket](https://www.atlassian.com/git/tutorials/what-is-git),[Medium](https://medium.com/@okandavut/what-is-gitflow-c0be7a659992)
