@@ -20,7 +20,7 @@ Version control system is a system that records changes to a file or set of file
 Repository is a collection of files of various different versions of a project saved in a version control system, e.g., Github.
 
 Usage; Repo on github can be created by creating and account on [github](http://https://github.com/).
-<img src="Images/Repo.png" height="200">
+<img src="Images/Repo.png" height="200x500">
   
 
 ### Clone
