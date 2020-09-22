@@ -20,21 +20,20 @@ Version control system is a system that records changes to a file or set of file
 Repository is a collection of files of various different versions of a project saved in a version control system, e.g., Github.
 
 Usage; Repo on github can be created by creating and account on [github](http://https://github.com/).
-<img src="Images/Repo.png" height="500" width="auto" border="2">
+<img src="Images/Repo.png" height="500" width="auto">
   
 
 ### Clone
 This commands make a copy of an existing repo on to the local directory. cloning can be done using HTTP or SSH.
-    ![Create a repo](https://github.com/mz081130/miniproject1-601-fall2020/blob/master/Images/Clone.png)
     
     git clone <clonePath>
 
-  
+  <img src="Images/Clone.png" height="500" width="auto">
 
 ### Fork
 Forking an official repo allows a developer to save the copy on their personal public repo and no other developers are allowed to push to it, but only the repo owner can pull changes from it
 Forking a repo on Github can be done on the upper right corner, simply click **Fork**.
- ![Create a clone](https://github.com/mz081130/miniproject1-601-fall2020/blob/master/Images/Fork.png)
+<img src="Images/Fork.png" height="500" width="auto">
 
 ### Branch
 Branches are individual projects within a repository. Different branches within a repository can have completely different files and folders, or it could have everything the same except for some lines of code in a file.
